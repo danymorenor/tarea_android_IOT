@@ -1,0 +1,12 @@
+<resources>
+    <string name="Boton_escaner">ESCANER QR</string>
+    <string name="app_name">Mis Tareas</string>
+
+    <string name="txt_numtarea">Tarea numero</string>
+    <string name="txt_libro">Nombre del libro</string>
+    <string name="txt_tarea">Descripcion tarea</string>
+    <string name="BotonRegistrar">Registrar</string>
+    <string name="BotonBuscar">Buscar</string>
+    <string name="BotonEliminar">Eliminar</string>
+    <string name="BotonModificar">Modificar</string>
+</resources>
